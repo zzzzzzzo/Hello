@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="first">Button</string>
+    <string name="second">Hello Android</string>
+    <string name="third">result</string>
+    <string name="fourth">0</string>
+    <string name="lable_add3">+3 points</string>
+    <string name="lable_add2">+2 points</string>
+    <string name="lable_add1">+1 point</string>
+    <string name="btn_reset">reset</string>
+    <string name="btn_dollar_labe1">Dollar</string>
+    <string name="btn_euro_labe1">Euro</string>
+    <string name="btn_won_labe1">Won</string>
+    <string name="rmb">Please input RMB</string>
+    <string name="open">Open the page</string>
+    <string name="btn_save_label">Save</string>
+    <string name="menu_set_label">Setting</string>
+    <string name="label_open_list">openlist</string>
+</resources>

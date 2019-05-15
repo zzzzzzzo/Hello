@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="first">转换为华氏温度</string>
+    <string name="second">请输入摄氏度</string>
+    <string name="third">结果为：</string>
+    <string name="fourth">0</string>
+</resources>
